@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'Zomato Test'
+primary: true
+siteGroup: 265954cf-bbcf-419e-b46b-aa904323428c # Zomato Test
+sortOrder: 1
