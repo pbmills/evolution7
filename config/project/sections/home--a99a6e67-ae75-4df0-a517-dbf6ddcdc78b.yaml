@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: home
+name: Home
+propagationMethod: all
+siteSettings:
+  c9d605e0-4f90-46c8-bae4-3b9df1f2c9e7: # Zomato Test
+    enabledByDefault: true
+    hasUrls: true
+    template: page/Home/index
+    uriFormat: __home__
+type: single
